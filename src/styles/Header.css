@@ -1,0 +1,17 @@
+header {
+    background-color: #06283D;
+    padding: 30px 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+header > h1 {
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.h1{
+    align-items: center;
+}
